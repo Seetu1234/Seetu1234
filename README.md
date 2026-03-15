@@ -1,70 +1,133 @@
-#test-4
+# 👋 Hi, I'm Sitarami Reddy
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Sitarami%20Reddy&fontSize=32&fontAlignY=35" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sitarami%20Reddy&fontAlign=50&fontAlignY=40&color=0:141E30,50:243B55,100:000000&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+
+### 🚀 Full Stack Developer | Angular | Spring Boot | Java
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Angular+Developer;Spring+Boot+Backend+Engineer;Building+Enterprise+Applications;Healthcare+%26+Dashboard+Platforms"/>
+
+<img src="https://komarev.com/ghpvc/?username=sitaramireddy&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
 </div>
 
+---
+
+# 👨‍💻 About Me
+
+Hi 👋 I'm **Sitarami Reddy**, a **Full Stack Developer** passionate about building scalable and high-performance applications.
+
+💡 I specialize in **Angular + Spring Boot enterprise systems**, especially **healthcare platforms and dashboards**.
+
+### ⚡ Expertise
+
+* Angular 16–19
+* RxJS & Signals
+* Java & Spring Boot
+* REST API Development
+* AWS Cloud Integration
+* Performance Optimization
+
+---
+
+# 🛠 Tech Stack
+
+## 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=angular,typescript,html,css,js,bootstrap"/>
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express"/>
+</p>
+
+---
+
+## ☁️ Cloud & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Angular+Developer;Frontend+%26+Full+Stack+Engineer;Angular+19+%7C+RxJS+%7C+Signals;Spring+Boot+%7C+REST+APIs;Healthcare+%26+Enterprise+Apps)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sitaramireddy&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+<img src="https://github-profile-trophy.vercel.app/?username=sitaramireddy&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 📊 GitHub Stats
 
-👋 Hi, I’m **Sitarami Reddy**, a passionate **Frontend / Full Stack Developer** with strong experience in **Angular** and enterprise-scale applications.
+<div align="center">
 
-I love building **high-performance, scalable, and user-friendly web apps**, especially in **healthcare & enterprise systems**.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sitaramireddy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-- 🅰️ Angular 16–19 • RxJS • Signals  
-- 🌐 REST APIs • Spring Boot • Java  
-- ☁️ AWS • S3 • Cloud integrations  
-- ⚡ Performance optimization & clean architecture  
-- 🏥 Healthcare dashboards & portals  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitaramireddy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🔥 GitHub Streak
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sitaramireddy&theme=tokyonight&hide_border=true"/>
 
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
-## ✨ What I’m Working On
+# 📈 Contribution Graph
 
-- 🔄 Migrating Angular apps to **Signals**
-- 🚀 Optimizing image & API loading performance
-- 🔐 Secure role-based dashboards
-- 🧠 Exploring better state management patterns
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sitaramireddy&theme=tokyo-night"/>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 🐍 Contribution Snake
 
-- 💼 **LinkedIn:** _(add your link here)_  
-- 📧 **Email:** _(add your email here)_  
-- 💻 **GitHub:** https://github.com/your-username  
+<div align="center">
+
+<img src="https://github.com/sitaramireddy/sitaramireddy/blob/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+✔ Migrating Angular apps to **Signals**
+✔ Optimizing API performance
+✔ Building secure enterprise dashboards
+✔ Improving frontend architecture
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn: https://linkedin.com/in/your-link
+📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+💻 GitHub: https://github.com/sitaramireddy
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000000,50:243B55,100:141E30"/>
+
 </div>
